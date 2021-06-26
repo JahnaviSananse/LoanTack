@@ -1,0 +1,28 @@
+[
+    {
+        "_id": 1,
+        "createdAt": new Date(),
+        "user_id": 2,
+        "image": "https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_1MB.jpg",
+        "filename": "sample_image.jpeg"
+    },
+    {
+        "_id": 1,
+        "createdAt": new Date(),
+        "user_id": 3,
+        "pdf": "https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_1MB.jpg",
+        "filename": "sample_pdf.pdf"
+    },
+    {
+        "_id": 1,
+        "text": "https://www.google.com",
+        "createdAt": new Date(),
+        "user_id": 2
+    },
+    {
+        "_id": 1,
+        "text": "Hello",
+        "createdAt": new Date(),
+        "user_id": 2
+    }
+]

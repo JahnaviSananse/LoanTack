@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoanTack</string>
+    <string name="CodePushDeploymentKey" moduleConfig="true">7tgB0vvQ6_kBG3EDzCnzAim97KC6s9umSOcRT</string>
+</resources>

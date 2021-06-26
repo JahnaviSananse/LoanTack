@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314846935748",
+    "firebase_url": "https://loantack.firebaseio.com",
+    "project_id": "loantack",
+    "storage_bucket": "loantack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314846935748:android:614f3fb0172d844dd5a791",
+        "android_client_info": {
+          "package_name": "com.loantack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314846935748-hidda11co62t5cg9rffmis7mic8teg9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjatqIVAsmeTZ33GtytCQ4_2IyqxeL5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314846935748-hidda11co62t5cg9rffmis7mic8teg9i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314846935748-auhge8df8kaec603c52sedlv7l2av87p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creole.loantack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

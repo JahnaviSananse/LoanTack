@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>314846935748-gipoa0rskfbm97kiddn1k8fgar6vat2s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.314846935748-gipoa0rskfbm97kiddn1k8fgar6vat2s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBexg1Q9IFWiobaWwDfLNMUM4PmGh3M9nU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>314846935748</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.enfuse.loantack</string>
+	<key>PROJECT_ID</key>
+	<string>loantack</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loantack.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:314846935748:ios:dd088de7480c70bfd5a791</string>
+	<key>DATABASE_URL</key>
+	<string>https://loantack.firebaseio.com</string>
+</dict>
+</plist>

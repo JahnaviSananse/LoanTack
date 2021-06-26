@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-eslint-rules",
+    "tslint-react",
+    "tslint-config-prettier"
+  ],
+  "jsRules": {},
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "rules": {
+    "prettier": [true, { "singleQuote": true, "trailingComma": "es5" }],
+    "interface-name": false,
+    "jsx-no-lambda": false,
+    "object-literal-sort-keys": false,
+    "quotemark": [true, "single", "jsx-double"],
+    "no-empty-interface": false,
+    "member-ordering": false,
+    "jsx-boolean-value": false,
+    "no-console": [true, "log", "debug"],
+    "no-empty": false,
+    "jsx-no-bind": false,
+    "ban-types": false,
+    "prefer-for-of": false
+  }
+}

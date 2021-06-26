@@ -1,0 +1,70 @@
+{
+  "_from": "react-native-code-input",
+  "_id": "react-native-code-input@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-2ksMDgTxQGmDILyBz/EQfiEf6SM=",
+  "_location": "/react-native-code-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-code-input",
+    "name": "react-native-code-input",
+    "escapedName": "react-native-code-input",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-code-input/-/react-native-code-input-1.0.6.tgz",
+  "_shasum": "da4b0c0e04f140698320bc81cff1107e211fe923",
+  "_spec": "react-native-code-input",
+  "_where": "/Users/vijaykahar/Desktop/LoanTack",
+  "author": {
+    "name": "Leonardo Dino",
+    "email": "leonardo@kunstdesing.com.br"
+  },
+  "bugs": {
+    "url": "https://github.com/leonardodino/react-native-confirmation-code-input.git/issues",
+    "email": "ttdung001@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": "A react-native component to input confirmation code for both Android and IOS",
+  "homepage": "https://github.com/leonardodino/react-native-confirmation-code-input.git",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "android",
+    "ios",
+    "code-input",
+    "confirmation-code",
+    "pin-code",
+    "confirmation-code-input",
+    "pin-code-input"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-code-input",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardodino/react-native-confirmation-code-input.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "version": "1.0.6"
+}
